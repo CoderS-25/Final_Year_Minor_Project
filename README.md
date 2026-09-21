@@ -50,5 +50,7 @@ The project is deployed locally via a **Streamlit Web Dashboard**, which include
    *The dashboard will automatically open in your default web browser at `http://localhost:8501`.*
 
 ## 👨‍💻 Developed By
-**[Your Name]**  
+* **SOURAV V P**
+* **JOSHUA FAITHSON RONY**
+
 *Built for University Minor Project Submission*
